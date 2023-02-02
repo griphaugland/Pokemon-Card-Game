@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
+.playerside {
+    border: 2px solid black;
+    width: 40vw;
+    padding: 10px;
+}
+.computerside {
+    border: 2px solid black;
+    width: 40vw;
+    padding: 10px;
+}
